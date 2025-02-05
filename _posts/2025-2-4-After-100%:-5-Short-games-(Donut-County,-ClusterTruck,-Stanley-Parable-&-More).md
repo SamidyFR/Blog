@@ -23,6 +23,7 @@ so... uh... erm...
 ## Game 1 - Donut County <a name='game1'></a>
 
 ![hole-get-in-the-hole](https://github.com/user-attachments/assets/0fe69ac7-6dda-4114-b268-46b75cc18cf9)
+
 i couldnt find a better gif ok :(
 
 Donut County is a short little game made by Ben Esposito where you play as a hole and you get bigger each time something goes in the hole (idk how to explain stuff i like :( )
