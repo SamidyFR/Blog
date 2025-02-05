@@ -31,6 +31,7 @@ Donut County is a short little game made by Ben Esposito where you play as a hol
 fun fact: ben esposito also made neon white (which is peak you should play it) and its really funny as both are completely diff vibes 😭 
 
 its pretty cute, chill, and all around just a fun little 2 hour experience
+
 like i said, 2 hour experience. this game is REALLY easy and short, so it doesnt take much effort to get all achievements for
 
 
@@ -62,6 +63,7 @@ POST VOID is a short FPS roguelike that just... drugs that all i have to explain
 this games achievements are, really barebones. you just have to beat the game, and set your music volume to 0%. which, the criteria sounds easy, the actual game isnt. (it might just be me being bad at it but :( meanie )
 
 this game is HARD once you beat the start of act 2. due to how many things are happening in this game you can barely focus on an enemy and before you know it your dead and your going back to the beginning.
+
 anyways uh,,, DRONES ARE THE WORST ENEMY IN THE GAME
 
 
@@ -136,8 +138,7 @@ oh yeah, also beat the special levels.
 
 anyways thats pretty much all i have to say.
 
-Enjoyment: 9/10 | INSANELY fun game. worth full price even.
-(also, as of writing this its currently 80% off! GO GO GET IT IT ENDS IN 10 HOURS AS OF WRITING THIS!!!)
+Enjoyment: 9/10 | INSANELY fun game. worth full price even. (also, as of writing this its currently 80% off! GO GO GET IT IT ENDS IN 10 HOURS AS OF WRITING THIS!!!)
 Difficulty: 6/10 | i wont speak for this as i cheated one of the achievements in but, hard but not THAT hard.
 
 ## Game 4 - Firewatch <a name='game4'></a>
@@ -153,6 +154,7 @@ trust me, even if you arent an achievement hunter, this game is amazing.
 this is def going to be the shortest game, as you HAVE to go in blindly. trust me.
 
 but, the achievements are really fun, its mainly just beating the game and doing a few thingys like listening to a tape you find across the map.
+
 some people will say those are missable, but they arent. just click "special features" and click free roam.
 
 like i said, this is genuinely just you HAVE to play. i am BEGGING YOU ITS SO GOOD 😭
@@ -168,7 +170,9 @@ Difficulty: 4/10 | its just more long to get the miscellaneous achievements as s
 
 
 Stanley parable is a cool little comedy indie game about stanley, employee number 427 :P
+
 this game is REALLY funny, you should check it out.
+
 the version i recommend is the ULTRA DELUXE version, as it adds WAY more content, and is the most popular version. its normally only a few dollars more then the OG on sales.
 
 like with firewatch, id recommend going in kind of blindly. dont search up ANYTHING about the game, dont read any reviews or ANYTHING.
@@ -178,7 +182,9 @@ now, for the achievements, they're kinda silly, there's the infamous
 ![Pasted image 20250205113514](https://github.com/user-attachments/assets/5e5143c2-f3d7-4087-9fd0-9866080be8f7)
 
 Go outside achievement. this on the ultra deluxe version is currently unobtainable. the EARLIEST this can be obtained is in 8 YEARS. as the ultra deluxe is only 2 years old.
+
 so, of course, most people just cheated it in.
+
 theres also a 5 years version in the stanley parable OG just called "Go Outside"
 
 ![Pasted image 20250205113638](https://github.com/user-attachments/assets/1239cf76-822f-4ab5-bfb9-3dbe0a0cdb11)
