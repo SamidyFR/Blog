@@ -1,4 +1,4 @@
-### Table of Contents                 
+### 
  
  1. [Before We Start](#part1)
  2. [Game 1: Donut County](#game1)         
@@ -22,7 +22,7 @@ so... uh... erm...
 
 ## Game 1 - Donut County <a name='game1'></a>
 
-![[hole-get-in-the-hole 1.gif]]
+![hole-get-in-the-hole](https://github.com/user-attachments/assets/0fe69ac7-6dda-4114-b268-46b75cc18cf9)
 i couldnt find a better gif ok :(
 
 Donut County is a short little game made by Ben Esposito where you play as a hole and you get bigger each time something goes in the hole (idk how to explain stuff i like :( )
@@ -36,7 +36,9 @@ like i said, 2 hour experience. this game is REALLY easy and short, so it doesnt
 most of the achievements were more just confusing to find by yourself then hard. the only "hard" achievement there is is the one achievement called "flawless". i wont say what it is as its spoilers, but yeah :P
 
 if your ALSO going for 100%, id highly recommend this steam guide below
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1497314573
+
 video guides for every achievement too.
 
 
@@ -53,12 +55,16 @@ difficulty: 2/10 | not difficult at all. it was actually calming to get all the 
 yknow what fuck you im not even gonna try to find a good gif for this game.
 
 POST VOID is a short FPS roguelike that just... drugs that all i have to explain of it
-![[steam_1_out_v2.gif]]
+![steam_1_out_v2](https://github.com/user-attachments/assets/203b5eb0-986d-4b8c-8d74-85d305371353)
+
 
 this games achievements are, really barebones. you just have to beat the game, and set your music volume to 0%. which, the criteria sounds easy, the actual game isnt. (it might just be me being bad at it but :( meanie )
 
 this game is HARD once you beat the start of act 2. due to how many things are happening in this game you can barely focus on an enemy and before you know it your dead and your going back to the beginning.
-anyways uh,,, DRONES ARE THE WORST ENEMY IN THE GAME![[Pasted image 20250205104145.png]]
+anyways uh,,, DRONES ARE THE WORST ENEMY IN THE GAME
+
+
+![Pasted image 20250205104145](https://github.com/user-attachments/assets/65351784-83dd-47ed-84f3-a14c13da112b)
 
 this game is HARD, especially if you've never played a roguelike before.
 
@@ -84,7 +90,8 @@ Difficulty: 7/10 | if i was talking to you in like what? september? i wouldve sa
 
 ## Game 3 - ClusterTruck <a name='game3'></a>
 
-![[truck-parkour.gif]]
+![truck-parkour](https://github.com/user-attachments/assets/bcbf57a9-5490-4035-a884-47d86b666c96)
+
 
 clustertruck is a cool little parkour game about jumping on trucks to get to the finish line :PPP
 
@@ -95,19 +102,23 @@ i dont know how to really explain this game, so you just have to play yourself t
 
 onto the achievements, now kind of like post void, its mainly just beating the game. there ARE few achievements like:
 
-![[Pasted image 20250205105307.png]]
+![Pasted image 20250205105307](https://github.com/user-attachments/assets/01b26116-202a-403d-b2b2-3f50c1025791)
+
 Master. Basically, Beat 10 levels on your first try. if you failed a level, just open and close the game.
 
-![[Pasted image 20250205105344.png]]
+![Pasted image 20250205105344](https://github.com/user-attachments/assets/7950d5f3-f7d7-4312-8f8a-26927cb25c2a)
+
 if none of your steam friends play clustertruck (or idk maybe your a loner) this should pop up first thing you see after beating a level.
 
-![[Pasted image 20250205105426.png]]
+![Pasted image 20250205105426](https://github.com/user-attachments/assets/ac9ff6b0-ab68-4f5d-944c-3fc41f5775d9)
+
 and these. you can use point farming custom levels for this if you want.
 
 
 now, the hardest achievement out of ALL of these is Pure.
 
-![[Pasted image 20250205105508.png]]
+![Pasted image 20250205105508](https://github.com/user-attachments/assets/9041fe2d-4276-4d23-8241-47e33ad8948e)
+
 
 (i am so sorry if this is spoilers)
 
@@ -119,7 +130,8 @@ i didnt have time to re-beat the game again :(((((((((
 so uh, mb gng :P
 
 oh yeah, also beat the special levels.
-![[Pasted image 20250205105750.png]]
+![Pasted image 20250205105750](https://github.com/user-attachments/assets/f302e0de-b396-4384-a36d-53be1d4242f7)
+
 
 anyways thats pretty much all i have to say.
 
@@ -129,7 +141,8 @@ Difficulty: 6/10 | i wont speak for this as i cheated one of the achievements in
 
 ## Game 4 - Firewatch <a name='game4'></a>
 
-![[Untitled.jpg]]
+![Untitled](https://github.com/user-attachments/assets/234d5d9c-d7f4-4a90-8c99-4b8e1cdc4118)
+
 i couldnt find a good gif.
 
 Firewatch is a story-based hiking adventure. its pretty short actually (4-5 hours) but the replay value is INSANE. even if you already know the story.
@@ -149,7 +162,9 @@ Difficulty: 4/10 | its just more long to get the miscellaneous achievements as s
 
 ## Game 5 - The Stanley Parable: ULTRA DELUXE <a name='game5'></a>
 
-![[the-stanley-parable-stanley.gif]]
+![the-stanley-parable-stanley](https://github.com/user-attachments/assets/b93d9222-ed52-4d13-98fb-03adab805fc7)
+
+
 
 Stanley parable is a cool little comedy indie game about stanley, employee number 427 :P
 this game is REALLY funny, you should check it out.
@@ -159,12 +174,14 @@ like with firewatch, id recommend going in kind of blindly. dont search up ANYTH
 
 now, for the achievements, they're kinda silly, there's the infamous
 
-![[Pasted image 20250205113514.png]]
+![Pasted image 20250205113514](https://github.com/user-attachments/assets/5e5143c2-f3d7-4087-9fd0-9866080be8f7)
+
 Go outside achievement. this on the ultra deluxe version is currently unobtainable. the EARLIEST this can be obtained is in 8 YEARS. as the ultra deluxe is only 2 years old.
 so, of course, most people just cheated it in.
 theres also a 5 years version in the stanley parable OG just called "Go Outside"
 
-![[Pasted image 20250205113638.png]]
+![Pasted image 20250205113638](https://github.com/user-attachments/assets/1239cf76-822f-4ab5-bfb9-3dbe0a0cdb11)
+
 
 Theres also commitment which is oddly specific, i cheated that in too as i dont have enough time for this lmao.
 
@@ -181,4 +198,5 @@ ive gotten some other 100%'s that ill like to talk about, you should see them wi
 
 as for the future i uh.,/,/. do not know
 
-![[Pasted image 20250205114100.png]]
+![Pasted image 20250205114100](https://github.com/user-attachments/assets/437be838-0277-4e0b-b843-2593ef325244)
+
