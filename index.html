@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Homepage!</title>
+<link rel="stylesheet" href="homestyle.css">
+<link rel="icon" type="image/x-icon" href="icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+
+<div id="overlay"><p class="para">Click anywhere to enter...</p></div>
+
+
+<div id="main">
+
+<!-- all images require "flexboxes" in my code (to center them and stuff) -->
+<div class="flexbox">
+<img src="icon.png"></img>
+</div>
+
+
+<div id="navbar">
+<ul>
+<li><a href="https://samidy.com">SITE</a></li>
+<li class="divider">|</li>
+<li><a href="index.html">HOME</a></li>
+<li class="divider">|</li>
+<li><a href="about.html">ABOUT</a></li>
+<li class="divider">|</li>
+<li><a href="../../archive.html">ARCHIVE</a></li>
+<li class="divider">|</li>
+<li><a href="contact.html">CONTACT</a></li>
+<ul>
+</div>
+
+<br>
+
+<!-- use headers for your big titles and stuff -->
+<p class="header">Welcome!</p>
+
+<!-- for normal text, a p tag with class "para" - that stands for paragraph -->
+<p class="para">Welcome to my blog! My name is Samidy. I'm interested in a lot of things, including coding and producing. This is a perpetual work in progress, so check back in often!</p>
+<p class="para">Here are my 3 favourite things I've written:</p>
+
+<!-- a tags are completely normal. no bullshit here. super easy. -->
+<p class="para"><a href="blogs/newwebsite/NEWSITEWOO.html">New Website!</a></p>
+<p class="para"><a href="https://samidy.com/oldBlog/2025/02/04/After-100-5-Short-games-(Donut-County,-ClusterTruck,-Stanley-Parable-&-More).html">After 100%: 5 Short Games (OLD)</a></p>
+<p class="para"><a href="https://samidy.com/oldBlog/2024/08/26/after-100__-MULLET-MADJACK.html">After 100%: MULLET MADJACK</a></p>
+
+
+<p class="para">...but you can visit the <a href="archive.html">archive</a> to find something else you like.</p>
+
+<p class="para">I speedrun games sometimes! Below is a speedrun of Mullet Madjack.</p>
+
+<!-- use the br tag to leave a bit of space between two thingies -->
+<br>
+
+<!-- even youtube embeds require flexboxes in my code, dw it's still simple -->
+<div class="flexbox">
+<iframe src="https://www.youtube.com/embed/rI_4PsBlqqc"></iframe>
+<i class="underimagetext">(a speedrun of mine)</i>
+</div>
+
+<p class="para">Other than that, you can check my main website out <a href="https://samidy.com">here</a>!</p>
+
+<br>
+
+<!-- see that i tag below? you can use it normally to italicize text or give it -->
+<!-- the class "underimagetext" for, well, text under images. -->
+<div class="flexbox">
+<img src="garfield.gif"></img>
+<i class="underimagetext">(you right now, probably)</i>
+</div>
+
+<br>
+<br>
+
+<div class="flexbox" style="flex-direction: row;">
+<a href="https://github.com/SamidyFR"><img src="github.png" class="social"></img></a>
+<a href="https://x.com/samidyrn"><img src="twitter.png" class="social"></img></a>
+<a href="https://bsky.app/profile/did:plc:335ezjhhvzxr4lonttrwelhi"><img src="bsky.png" class="social"></img></a>
+</div>
+
+</div>
+
+<!-- edit these credits to be accurate to what you want. -->
+<div id="footer"><i>Credits: <a href="https://samidy.com" class="normallink">Samidy</a>, website by <a href="https://linktr.ee/svrbrndmg" class="normallink">SevereBrainDamage</a></i></div>
+
+<script>
+// this is all just for the opening transition, nothing else is needed
+const overlay = document.getElementById("overlay")
+const footer = document.getElementById("footer")
+const main = document.getElementById("main")
+const body = document.body;
+
+overlay.addEventListener("click", enter);
+
+function enter() {
+	overlay.style.opacity = "0";
+	footer.style.opacity = "1";
+	main.style.display = "block";
+	setTimeout(fadeIn, 1500)
+}
+
+function fadeIn() {
+	main.style.opacity = "1";
+	overlay.style.display = "none";
+}
+</script>
+
+</body>
+</html>
